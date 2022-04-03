@@ -64,6 +64,6 @@ Contributions and improvements are always welcome. Please make your own branch a
 
 ## Questions
 
-If you have any questions about this projects, please contact me directly via the channels below:
+If you have any questions about this projects, please contact me directly via the channels below: </br>
 Email: viennabdev@gmail.com.
 You can view more of my projects at https://github.com/ViennaBorowska.
