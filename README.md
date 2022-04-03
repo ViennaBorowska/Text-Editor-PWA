@@ -52,7 +52,7 @@ to create the webpack bundle "dist" folder. This will also initiate the IndexedD
 
 You are then able to write and edit text in the editor. If you close and reopen the editor, any work you have is saved and remembered.
 
-There i also a button to install the app to be used offline. Work is still saved and remembered.
+There is also a button to install the app to be used offline. It will be downloaded and saved to yout desktop. Work is still saved and remembered.
 
 ## License
 
